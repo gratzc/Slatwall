@@ -47,9 +47,6 @@ Notes:
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script src="#$.slatwall.getBaseURL()#/assets/js/jquery-slatwall.min.js"></script>
 		
-		<!--- AngularJS is required for some of the ajax type of functions on this page.  You can remove AngularJS but you will need to do you own AJAX using the Slatwall jQuery plugin --->
-		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.3/angular.min.js"></script>
-		
 		<!--- Bootstrap is just included for demo / example purposes.  Removing it will not stop Slatwall from working --->
 		<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
 		<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
